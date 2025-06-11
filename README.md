@@ -2,7 +2,14 @@
 <p> Soy Full Stack Developer con orientacion al backend y formación previa comercial y en finanzas. Desde que soy un niño que asistia a olimpíadas de matemática que me apasionan los ejercicios de lógica, y luego de buscar en diferentes carreras debo decir que encontre mi pasión en la programaciòn. </p>
 <hr/>
 
+### ✓ ¿Que hago?
+
+Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formacion como desarrollador web. Me fascina poder encontrar la solucion a los problemas de la vida con código.
+
 ### ✓ Tecnologías y Herramientas
+¿Que tecnologias uso?
+
+El bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar. Por lo que las principales tecnologias que manejo son:
 <a href="https://www.w3schools.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="30" width="30"/></a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="30" width="30"/></a>&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="30" width="30"/></a>&nbsp;
